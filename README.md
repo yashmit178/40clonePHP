@@ -1,2 +1,2 @@
 # 40clonePHP
-website clones
+Website Clones
